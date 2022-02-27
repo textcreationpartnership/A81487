@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Emperor Augustus his two speeches, in the Senate-House at Rome; the first addressed to the married Romans, the other to the unmarried. / Translated out of Dion Cassius, an ancient Greek historian.</title>
+            <title>Speeches. English. Selections</title>
+            <author>Augustus, Emperor of Rome, 63 B.C.-14 A.D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81487</idno>
+            <idno type="STC">Wing D1503A</idno>
+            <idno type="STC">ESTC R15326</idno>
+            <idno type="EEBO-CITATION">12543086</idno>
+            <idno type="OCLC">ocm 12543086</idno>
+            <idno type="VID">151546</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81487)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151546)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 313:4 or 2264:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Emperor Augustus his two speeches, in the Senate-House at Rome; the first addressed to the married Romans, the other to the unmarried. / Translated out of Dion Cassius, an ancient Greek historian.</title>
+                  <title>Speeches. English. Selections</title>
+                  <author>Augustus, Emperor of Rome, 63 B.C.-14 A.D.</author>
+                  <author>Cassius Dio Cocceianus.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.B. at the Sign of the Three Pigeons in St. Pauls Church-yard,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>This item appears at reel 313:4 as Wing D1518 (number cancelled in Wing 2nd ed.), and at reel 22264:10 as Wing (2nd ed.) D11503A.</note>
+                  <note>Reproduction of original in Clark Library, University of California, Los Angeles and Henry E. Huntington Library and Art Gallery, San Marino, California..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sexual ethics --  Early works to 1800.</term>
+               <term>Rome --  History --  Augustus, 30 B.C.-14 A.D.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151546:1"/>
+            <p>THE Emperor Auguſtus HIS TWO SPEECHES, IN THE SENATE-HOUSE at <hi>ROME;</hi> The Firſt addreſſed to the MARRIED <hi>ROMANS,</hi> The other to the UNMARRIED.</p>
+            <p>Tranſlated out of <hi>DION CASSIUS,</hi> an Ancient Greek Hiſtorian.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. B.</hi> at the Sign of the Three Pigeons in St. <hi>Pauls</hi> Church-yard, 1675.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:151546:2"/>
+            <pb n="1" facs="tcp:151546:2"/>
+            <head>The Occaſion of theſe Speeches.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Fter a Civil War (which though it is oft begun upon Religious Pretences, always contributes to the growth of looſe Prin<g ref="char:EOLhyphen"/>ciples) many of the Gentlemen of <hi>Rome</hi> ſatisfied the World quickly, how ill they had been educated in the noiſe of War, when neither Humane nor Divine Laws are heard, Mar<g ref="char:EOLhyphen"/>riage (which was recommended to them by experience of the World) became a ſubject of their Satyrs; in their pleaſures, they would not conſult (as their Fore-fathers did) the conveniencies of humane Society: If they be<g ref="char:EOLhyphen"/>came married men, it was for money; and for money, as ready to become Adulterers: Love, though the moſt ge<g ref="char:EOLhyphen"/>nerous of Paſſions, was nothing elſe but brutiſhneſs; for the old Blades, many of them, in the times of licentiouſ<g ref="char:EOLhyphen"/>neſs, had debauched ſo many Women, that they durſt not truſt any; for the Young-men, they thought a ram<g ref="char:EOLhyphen"/>bling luſt the greateſt freedom, and had not had ſorrow enough to make them wiſe. The Ladies would not be un<g ref="char:EOLhyphen"/>adored, but enſlave themſelves to be called Miſtreſſes, or Keepers of the Liberty to the Gallants. The Council of the Nation begun to be ſenſible of a retinue of ill conſe<g ref="char:EOLhyphen"/>quents that waited on this modiſh Gallantry; it's like, they thought ſometimes of the Health of their People, thoſe Vices infallibly propagating rottenneſs through a Nation, ſometimes of the private felicity of thoſe Delin<g ref="char:EOLhyphen"/>quents themſelves, who in vain were in chaſe of Humane Happineſs, inſpight of the Author of Humane Society; but principally, they conſidered, that in Families were laid the foundations of Kingdoms, and promiſcuous Luſt would take away,</p>
+            <pb n="2" facs="tcp:151546:3"/>
+            <p> Firſt, all the Nobility of Families: Secondly, all In<g ref="char:EOLhyphen"/>duſtry; for who would labour for a ſpurious Iſſue. Third<g ref="char:EOLhyphen"/>ly, there would indeed be left none but the Relations be<g ref="char:EOLhyphen"/>twixt Maſter and Servant, with which alone no Philoſo<g ref="char:EOLhyphen"/>pher ever thought a Family could be conſtituted; and without Families, no man could ever frame an Idea of any ſuch thing as a Nation. In the enſuing Speeches will be ſuggeſted other things they were not unacquainted with; but the Hiſtory tells us, That out of their concern for their Country, they made a Law which gave ſeveral Im<g ref="char:EOLhyphen"/>munities, as particularly, Exemption of Taxes, to all that had three Children, and laid ſeveral burdens upon them that refuſed (as they call it) the yoke of Marriage: Againſt this Law a ſtrong Faction is made by the <hi>Roman Equites,</hi> or the Young Gentry of <hi>Rome.</hi> The Emperor <hi>Aug.</hi> (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>ſaith the Hiſtorian) being grieved in his mind, calls before him the whole body of the Gentry; the great<g ref="char:EOLhyphen"/>eſt part of them he finds unmarried, and particularly the two Conſuls for that year; this provoked him to two Ora<g ref="char:EOLhyphen"/>tions, now extant in the fifty ſixth Book of <hi>Dion Caſſius,</hi> p. 573. <hi>Edit. Hanouiae,</hi> 1606.</p>
+            <div type="speech">
+               <head>The firſt Speech to the Married Men.</head>
+               <opener>
+                  <salute>Gentlemen,</salute>
+               </opener>
+               <p>I See it, and not without trouble, how ſmall your num<g ref="char:EOLhyphen"/>ber; whether I conſider the greatneſs of this City, or this ſwarm of careleſs ſparks, that would enjoy all the plea<g ref="char:EOLhyphen"/>ſures, but contribute nothing to the ſecurity of the place they live in: I heartily thank you that you would withſtand this Torrent of Debauchery, I thank you as a publick Go<g ref="char:EOLhyphen"/>vernour, I thank you as <hi>Auguſtus,</hi> you endeavour to ſecure my Honour, that poſterity may not ſay the ruin of <hi>Rome</hi> be<g ref="char:EOLhyphen"/>gun in the days of <hi>Auguſtus.</hi> Others take the way to leave our <hi>Italy</hi> a Deſart, void of warlike Hands, and obnoxious to every multitude that ſhall invade it: To ſuch as you,
+<pb n="3" facs="tcp:151546:3"/>
+                  <hi>Rome</hi> of old owed her valiant People, and thereby her great<g ref="char:EOLhyphen"/>neſs; to the Marriage-bed we owe thoſe great ſpirits that put their yoke upon the world, and yet ſubmitted them<g ref="char:EOLhyphen"/>ſelves to the yoke of Marriage. Theſe men are dead, and without your example, not only their memory, but the whole <hi>Roman</hi> name were endangered; men are in this infe<g ref="char:EOLhyphen"/>rior to Spirits, that they muſt owe to children a vicarious kind of Immortality. Let me turn your eyes from your Fa<g ref="char:EOLhyphen"/>thers, to the Father of us all, the firſt and moſt high God; he hath divided humane nature into two Sexes, the Male and Female; he hath hid in our very make and frame a ſe<g ref="char:EOLhyphen"/>cret ſympathy, a natural kindneſs, nay, a little neceſſity to joyn, to contribute to the felicity of each others life. He hath ſtrangely bleſſed theſe mutual approaches, with a mi<g ref="char:EOLhyphen"/>racle which aſtoniſheth all Philoſophy, for mans original ſhall laſt a wonder to the worlds end. You (my married friends) have followed the Law of nature, as well as the example of our Predeceſſors, to whoſe vertue it is thoſe Young-men ow their titles and their ſecurity too. You glo<g ref="char:EOLhyphen"/>ry in being their off-ſpring, may others glory as much in being deſcended from you; it's a wiſe care to leave riches behind you, but a wiſer, to leave them to ſome, whom <hi>Rome</hi> and you may own for Children.</p>
+               <p>As for your Ladies, your own experience hath ſatisfied you, how happy a thing it is, to have a faithful Compa<g ref="char:EOLhyphen"/>nion of your life, intereſted in your Weal or Wo, a mau<g ref="char:EOLhyphen"/>ger of the fruits of your Induſtry, and with unexpreſſible affection, a nouriſher of the fruits of your body, one that manageth your Houſe to your honour; is pleaſed when you are merry, attends on you with tenderneſs in your ſickneſs, in proſperity doubles your happineſs by ſharing in it, and in adverſity takes half of the burden, in youth pleaſes you, and in old age aſſiſts you. Is it not beyond expreſſion, ſweet to behold your children, thoſe pledges of your mutual love, thoſe little Models of your ſelves, the
+<pb n="4" facs="tcp:151546:4"/>Epitomes of your ſouls and bodies, in whom when you are decaying, you flouriſh and grow young again. What ſatisfaction is it, when you leave the world, that not a ſtranger, but a part of your ſelves enjoy your ſubſtance; that you loſe not life (as in a battel) all in a lump, but live when you are dead, in little parcels of your ſelves.</p>
+               <p>My Friends, I ſpeak at eaſe to you, as <hi>Roman</hi> Citizens, by whom the welfare of their Country was never thought a matter fit for Drolery: What <hi>Roman</hi> of old would not have loſt life, much more have croſſed his vicious inclina<g ref="char:EOLhyphen"/>tions, for the benefit of <hi>Rome?</hi> And is it not convenient, nay abſolutely neceſſary, to Marry, if ſuch a name as the <hi>Roman</hi> muſt not be extinguiſhed, if there muſt be any ſuch thing as <hi>Roman</hi> Armies and Commanders, that <hi>Rome</hi> abound in Inhabitants, to improve the Land, and ſerve at Sea, to follow Trades, practiſe Manufactures, and when Wars come, to fight, and fight with greater reſolution, becauſe they have Wives and Children? You therefore, O men, (for you only the <hi>Roman</hi> Emperor owns by that name) you therefore, O fathers (for you only deſerve to wear that title) you I love and honour, and ſhall place all the marks of my favour upon you; I am ſure it's beſt the riches of <hi>Rome</hi> ſhould be in your hands, that have young <hi>Romans</hi> to beſtow them on; you have given pledges to your Coun<g ref="char:EOLhyphen"/>try of your fidelity, and your concern for her felicity.</p>
+            </div>
+            <div type="speech">
+               <head>
+                  <hi>The Second Speech to the Unmarried Gallants,</hi> p. 574. AUGUSTUS CAESAR.</head>
+               <p>I Am at a ſtand how to addreſs my ſelf to you; ſhall I call you Citizens? You have done your part for the ruining of the City; ſhall I call you men? will you own you deſerve the name? Shall I call you <hi>Romans?</hi> you bluſh not to take the ready way to blot that name from under
+<pb n="5" facs="tcp:151546:4"/>Heaven: I confeſs my ſelf in ſome confuſion, when I con<g ref="char:EOLhyphen"/>ſider how ye are endeavouring to fruſtrate all the deſigns that I have managed on the moſt mature deliberation, for the peopling of <hi>Rome;</hi> I am ſorry I have ſo many to ſpeak to, that are like to bring a multitude to a few. You re<g ref="char:EOLhyphen"/>gard not the care the higher Powers have taken to plant the <hi>Roman</hi> name, you value not the blood of your Fathers ſhed to preſerve it, and <hi>poſtpone</hi> all things to a humour, which one age would confute by ſad experience. Were the Commonalty infected with this, as with many other of your Vices, what would become of <hi>Rome,</hi> nay, of the world of men? You are ſome of our principal branches, and voluntary barrenneſs can be none of your glories; the People imitate you, and Poſterity may deſervedly brand you, if you ſhew them the way to ruin; either all will do as you do, if not, your vitious ſingularity renders you juſtly odious; you deſerve to be hiſt off the ſtage of the world, that will alone act ſuch unbecoming parts; nay, you deſerve their rage, that will trample on what is ſo ſa<g ref="char:EOLhyphen"/>cred in the eyes of all men elſe; but if you find a croud of followers, the next age will follow your memory with millions of Curſes.</p>
+               <p>You'l ſay, it will be no hurt for us to live as we liſt; ſo may the Robbers plead, their number is not great; the Serpent in the egg deſerves to die: But what is theft, nay, a cluſter of the greateſt crimes to yours? You are murde<g ref="char:EOLhyphen"/>rers, wilfully ſmothering the vital flame; you are unnatural to Parents, not perpetuating their name and honour, and all for a <hi>Miſs,</hi> to whom you give for your pleaſure, what ſhe ſpends on others that pleaſe her better. You are unjuſt to the higher Powers, robbing them of their moſt pleaſing offering, a ſucceſſion of rational creatures to adore them; if your way take, their Temples as well as our Houſes will be empty; our <hi>Romulus</hi> and his followers ſtole forreign Virgins for their Wives, and you neglect our own. Wives were the cauſe of, and Wives obtained, made the Peace in
+<pb n="6" facs="tcp:151546:5"/>the famous <hi>Sabine</hi> War. Thoſe old things you deſpiſe, but ſo you caſt contempt on the actions of your Fathers.</p>
+               <p>And for what is this Confuſion? Will you profeſs Cha<g ref="char:EOLhyphen"/>ſtity as veſtal Virgins? then with them you ſhould die if you offend; but I know, none of you live without your Woman, both at bed and board; all this you propoſe to your ſelves, is to range wildly, it's an ungoverned brutiſh<g ref="char:EOLhyphen"/>neſs you plead for, or rather to have liberty to fill the Ci<g ref="char:EOLhyphen"/>ty with jealouſie and murders: if theſe bounds you will not be contained in, Why may not the Thief break over all hedges of the Law, that keep him from your Riches? No mans propriety in his Eſtate, hath a more rational foundation, than that in his Wife.</p>
+               <p>Gentlemen, if my words wound you, think how much deeper your deeds have wounded me; thoſe antient Laws of Wedlock I found when I firſt took up this Scepter, and will as ſoon ſuffer that, as them, to fall to the ground. Remember you live in a Society, and are not lawleſs, and your Obedience I expect to this of all my Laws; enforce not the State to employ your ſlaves to get children for you, and continue the name of <hi>Romans.</hi>
+               </p>
+               <p>But I bluſh for you, I have ſpoke nothing out of hatred to you, but as your Emperor, that would have (you grow good, and) thouſands like you. Go home, take Wives, and with joynt prayers adore the God of Families, try the ways of vertue, and you'l need no more Speeches from <hi>Auguſtus.</hi>
+               </p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
